@@ -4,13 +4,13 @@ dekitayoアプリのプライバシーポリシーと利用規約
 
 ## ドキュメント
 
-- **[プライバシーポリシー](privacy-policy.md)**
-- **[利用規約](terms.md)**
+- **[プライバシーポリシー](legal/privacy/)**
+- **[利用規約](legal/terms/)**
 
 ## 公開URL（GitHub Pages）
 
-- プライバシーポリシー: https://tacero51.github.io/dekitayo-legal/privacy-policy
-- 利用規約: https://tacero51.github.io/dekitayo-legal/terms
+- プライバシーポリシー: https://tacero51.github.io/dekitayo-legal/legal/privacy/
+- 利用規約: https://tacero51.github.io/dekitayo-legal/legal/terms/
 
 ---
 
