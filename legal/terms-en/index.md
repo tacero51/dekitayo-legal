@@ -1,6 +1,6 @@
 # dekitayo - Terms of Use
 
-**v2.1.0 / Effective Date: 2026-05-12  Last Updated: 2026-05-12**
+**v2.1.1 / Effective Date: 2026-05-12  Last Updated: 2026-05-20**
 
 > **PLEASE READ THESE TERMS CAREFULLY.** They include important provisions, such as a **binding arbitration agreement** (for U.S. users), a **class action waiver**, **disclaimers of warranties**, and **limitations of liability**, that affect your legal rights and obligations.
 
@@ -275,18 +275,18 @@ We may modify these Terms at our discretion. Material changes will be communicat
 
 ## 22. Contact
 
-For any inquiries regarding these Terms or the Service, including arbitration opt-out, copyright concerns, or privacy requests:
+For any inquiries regarding these Terms or the Service, including arbitration opt-out, copyright concerns, or privacy requests, please use the contact form below.
 
 - **Contact Form**: [Contact Form](https://forms.gle/yPrsGzQAQM9z5tBKA)
-- **Operator**: [Legal name to be inserted]
-- **Mailing Country**: Japan
+- **Operator Country**: Japan
 
-> *Note: A dedicated business mailing address and direct email channel are being prepared for legal notices and will be added to this page upon availability.*
+> *Note: The Service is operated by an independent developer based in Japan. The contact form above is the official channel for all formal notices, including legal and privacy inquiries. We will respond from the email address you provide.*
 
 ---
 
 ## Revision History
 
+- **v2.1.1** (2026-05-20): Section 22 — removed the unresolved operator-name placeholder and the email/mailing-address pending note. The contact form is now stated as the sole official channel for all formal notices.
 - **v2.1.0** (2026-05-12): Reflected external legal review (GPT-5.5). Added: Quick Summary, Apple App Store Additional Terms (Section 14), no-screening medical language (Section 11), no professional use (Section 7), iCloud/device backup clarification (Section 6), precise analytics language (Section 6), non-excludable liability carveout (Section 12d), public injunctive relief carveout for California McGill rule (Section 18e), AAA consumer fee fairness (Section 18b), no-retroactive arbitration changes (Section 21). Removed: "COPPA compliant" parenthetical, unnecessary user-content license, formal DMCA section.
 - **v2.0.0** (2026-05-12, internal draft): Major revision for international launch. Added: strong warranty disclaimers, enhanced medical disclaimer, limitation of liability with cap, indemnification, export control, binding arbitration and class action waiver, dual governing law for US/international users, severability, force majeure, entire agreement.
 - **v1.0.0** (2026-03-23): Initial publication (Japan-only, separate Japanese version).
